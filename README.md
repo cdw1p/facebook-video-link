@@ -2,7 +2,10 @@
 
 Unofficial API to Get Facebook Videos Information (Title, Caption, & Link)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 26abe35eed5f8eb9fe47db93d1311860341bbbf5
 ## Install
 
 ```
