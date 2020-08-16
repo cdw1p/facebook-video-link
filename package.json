@@ -1,0 +1,19 @@
+{
+  "name": "facebook-video-link",
+  "version": "1.0.1",
+  "description": "Unofficial API to Get Facebook Videos Information (Title, Caption, & Link)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cdw1",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/facebook-video-link.git"
+  },
+  "homepage": "https://github.com/cdw1p/facebook-video-link.git#readme"
+}
